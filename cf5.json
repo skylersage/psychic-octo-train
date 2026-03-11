@@ -1,0 +1,502 @@
+[
+  {
+    "question": "This type of keyboard is designed specifically to alleviate wrist strain associated with the repetitive movements of typing.",
+    "options": ["Ergonomic keyboard", "Wireless keyboard", "Traditional keyboard", "Flexible keyboard"],
+    "answer": "Ergonomic keyboard"
+  },
+  {
+    "question": "A key that turns a function on or off is called a ______ key.",
+    "options": ["Power", "Toggle", "Function", "Control"],
+    "answer": "Toggle"
+  },
+  {
+    "question": "Which key typically cancels a selection or procedure?",
+    "options": ["Escape", "Windows key", "Spacebar", "F1"],
+    "answer": "Escape"
+  },
+  {
+    "question": "What type of key is generally used as a shortcut for a specific task?",
+    "options": ["Escape", "Numeric", "Function", "Control"],
+    "answer": "Function"
+  },
+  {
+    "question": "Which one of the following choices would not be classified as a pointing device?",
+    "options": ["Mouse", "Joystick", "Light pen", "Graphics tablet"],
+    "answer": "Graphics tablet"
+  },
+  {
+    "question": "The mouse ______ usually appears in the shape of an arrow.",
+    "options": ["Pointer", "Marker", "Indicator", "Meter"],
+    "answer": "Pointer"
+  },
+  {
+    "question": "This type of mouse is generally considered the traditional type and is currently the most widely used.",
+    "options": ["Mechanical", "Cordless", "Wireless", "Optical"],
+    "answer": "Mechanical"
+  },
+  {
+    "question": "This type of mouse has a ball on the bottom and is attached with a cord to the system unit.",
+    "options": ["Mechanical", "Cordless", "Wireless", "Optical"],
+    "answer": "Mechanical"
+  },
+  {
+    "question": "This type of mouse has no moving parts.",
+    "options": ["Mechanical", "Cordless", "Wireless", "Optical"],
+    "answer": "Optical"
+  },
+  {
+    "question": "This type of mouse emits and senses light to detect mouse movement.",
+    "options": ["Mechanical", "Cordless", "Wireless", "Optical"],
+    "answer": "Optical"
+  },
+  {
+    "question": "This type of mouse is a battery-powered device that typically uses radio waves or infrared light waves to communicate with the system unit.",
+    "options": ["Mechanical", "Touch", "Wireless", "Optical"],
+    "answer": "Wireless"
+  },
+  {
+    "question": "Instead of using a mouse, you can use this pointing device to control the pointer by rotating a ball with your thumb.",
+    "options": ["Pointing stick", "Touchpad", "Joystick", "Trackball"],
+    "answer": "Trackball"
+  },
+  {
+    "question": "The ______ is the most popular input device for games.",
+    "options": ["Joystick", "Keyboard", "Mouse", "Light pen"],
+    "answer": "Joystick"
+  },
+  {
+    "question": "With this pointing device, you control game action by varying the pressure, speed, and direction.",
+    "options": ["Optical mouse", "Trackball", "Joystick", "Touch screen"],
+    "answer": "Joystick"
+  },
+  {
+    "question": "A ______ is a monitor that is covered with a plastic layer to allow you to press the screen to select commands.",
+    "options": ["Digitizing tablet", "Light pen", "Pointing stick", "Touch screen"],
+    "answer": "Touch screen"
+  },
+  {
+    "question": "This type of pointing device is commonly used at restaurants, ATMs, and information centers.",
+    "options": ["Mechanical mouse", "Joystick", "Light pen", "Touch screen"],
+    "answer": "Touch screen"
+  },
+  {
+    "question": "This type of device typically operates by moving across text and images.",
+    "options": ["Optical mouse", "Light pen", "Scanner", "Joystick"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "Which one of the following would not be considered a type of scanning device?",
+    "options": ["Light pen", "Optical scanner", "Bar code reader", "MICR device"],
+    "answer": "Light pen"
+  },
+  {
+    "question": "Which of the following functions most like a copy machine?",
+    "options": ["Portable scanner", "Bar-code reader", "Flatbed scanner", "Touch screen"],
+    "answer": "Flatbed scanner"
+  },
+  {
+    "question": "A ______ character by sliding it along a line of text.",
+    "options": ["Character", "Flatbed", "Bar-code", "Portable"],
+    "answer": "Bar-code"
+  },
+  {
+    "question": "A Universal Product Code is read by what type of scanner?",
+    "options": ["bar-code", "Flatbed", "OCR", "MICR"],
+    "answer": "bar-code"
+  },
+  {
+    "question": "Which of the following types of character recognition systems requires the use of magnetic ink?",
+    "options": ["OCR", "MICR", "OMR", "UPC"],
+    "answer": "MICR"
+  },
+  {
+    "question": "This reading device is readily used in banks to read the numbers on the bottom of checks and deposit slips.",
+    "options": ["MICR", "OCR", "ORM", "GRE"],
+    "answer": "MICR"
+  },
+  {
+    "question": "Which of the following types of character recognition systems is used for standardized testing like the SAT's?",
+    "options": ["UPC", "MICR", "OMR", "OCR"],
+    "answer": "OMR"
+  },
+  {
+    "question": "A ...... camera records images on a disk instead of on film.",
+    "options": ["Video", "Photosensitive", "Traditional", "Digital"],
+    "answer": "Digital"
+  },
+  {
+    "question": "Which of the following refers to a special type of video camera used for broadcasting images on the Internet?",
+    "options": ["Webcam", "iCam", "eCamera", "Web Video"],
+    "answer": "Webcam"
+  },
+  {
+    "question": "______ devices convert a sketch or a figure into a form that the computer can understand.",
+    "options": ["Electrolyzing", "Plotting", "UPC", "Digitizing"],
+    "answer": "Digitizing"
+  },
+  {
+    "question": "Which of the following devices would require the use of a stylus?",
+    "options": ["Scanner", "Digital notebook", "Graphics tablet", "bar-code reader"],
+    "answer": "Graphics tablet"
+  },
+  {
+    "question": "A (n) ______ records the movements of the user's pen over a piece of paper.",
+    "options": ["Graphics tablet", "Digital notepad", "Touch screen", "Flatbed scanner"],
+    "answer": "Digital notepad"
+  },
+  {
+    "question": "The most important characteristic of a monitor is its",
+    "options": ["Dot pitch", "Resolution", "Clarity", "Viewable size"],
+    "answer": "Clarity"
+  },
+  {
+    "question": "The individual dots that form the image on a monitor are called",
+    "options": ["Picas", "Specks", "Pixels", "Particles"],
+    "answer": "Pixels"
+  },
+  {
+    "question": "This monitor has a maximum resolution of 1024x768.",
+    "options": ["SXGA", "XGA", "SVGA", "UXGA"],
+    "answer": "XGA"
+  },
+  {
+    "question": "Which of the following monitor types most closely resembles a television?",
+    "options": ["Flat panel", "Cathode Ray Tube", "e-book reader", "Data projector"],
+    "answer": "Cathode Ray Tube"
+  },
+  {
+    "question": "A (n) ______ printer works by spraying tiny droplets of ink onto the paper.",
+    "options": ["ink-jet", "Laser", "Thermal", "Chain printer"],
+    "answer": "ink-jet"
+  },
+  {
+    "question": "Which of the following printer types requires special paper?",
+    "options": ["Chain", "Laser", "ink-jet", "Thermal"],
+    "answer": "Thermal"
+  },
+  {
+    "question": "Which of the following can create the largest printouts?",
+    "options": ["ink-jet", "Chain", "Plotter", "Thermal"],
+    "answer": "Plotter"
+  },
+  {
+    "question": "With a standard mouse, you can quickly access a shortcut menu by pressing the",
+    "options": ["F1 key", "Esc key", "Left mouse button", "Right mouse button"],
+    "answer": "Right mouse button"
+  },
+  {
+    "question": "Specialized input and output devices for receiving and sending voice communications are",
+    "options": ["Fax modems", "Intelligent terminals", "Web appliances", "Internet telephones"],
+    "answer": "Internet telephones"
+  },
+  {
+    "question": "A network terminal is also known as a (n)",
+    "options": ["Dumb terminal", "PC terminal", "Intelligent terminal", "Thin client"],
+    "answer": "Dumb terminal"
+  },
+  {
+    "question": "A standard microcomputer with a network connection would be called a(n)",
+    "options": ["Thin client", "PC terminal", "Intelligent terminal", "Server"],
+    "answer": "Thin client"
+  },
+  {
+    "question": "Which of the following is not a network device?",
+    "options": ["Modem", "Port", "Bridge", "Router"],
+    "answer": "Port"
+  },
+  {
+    "question": "How many categories of software are classified?",
+    "options": ["3", "2", "5", "4"],
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following is an example of system software?",
+    "options": ["Word processor", "Spreadsheet program", "Operating system", "S-Windows"],
+    "answer": "Operating system"
+  },
+  {
+    "question": "Which of the following is not an example of packaged software?",
+    "options": ["MS-Word", "Ms-PowerPoint", "MS-Access", "MS-Windows"],
+    "answer": "MS-Windows"
+  },
+  {
+    "question": "Which of the following is not application software?",
+    "options": ["Scientific software", "Games", "Device driver", "Multimedia software"],
+    "answer": "Device driver"
+  },
+  {
+    "question": "Which of the following is not an example of input device?",
+    "options": ["Mouse", "Scanner", "Speaker", "digital camera"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Which of the following is most commonly used input devices?",
+    "options": ["Keyboard", "Digital camera", "Microphone", "Scanner"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "A standard keyboard used in personal computer has:",
+    "options": ["80 keys", "84 keys", "101 keys", "102 keys"],
+    "answer": "101 keys"
+  },
+  {
+    "question": "Which of the following key of keyboard is used to change lowercase letter mode to upper case and vice-versa?",
+    "options": ["ALT", "Caps Lock", "Ctrl", "Enter"],
+    "answer": "Caps Lock"
+  },
+  {
+    "question": "Which of the following key of keyboard is used to delete a character to the left of the cursor?",
+    "options": ["Delete", "Backspace", "Tab", "Shift"],
+    "answer": "Backspace"
+  },
+  {
+    "question": "Which of the following key of keyboard is used to insert a new line or paragraph into any text editor?",
+    "options": ["Shift", "Backspace", "Enter", "Tab"],
+    "answer": "Enter"
+  },
+  {
+    "question": "Which of the following input device is not a pointing device?",
+    "options": ["Joystick", "Light pen", "Digitizing tablet", "Scanner"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "Which of the following pointing device is a stationary device with a moveable ball on its top?",
+    "options": ["Mouse", "Light pen", "Touch pad", "Trackball"],
+    "answer": "Trackball"
+  },
+  {
+    "question": "Which of the following pointing device has a vertical handle like a gearshift lever?",
+    "options": ["Light pen", "Pointing stick", "Joystick", "Trackball"],
+    "answer": "Joystick"
+  },
+  {
+    "question": "Which of the following device uses the sensors to detect the touch of a finger?",
+    "options": ["Light pen", "Touch screen", "Pointing stick", "joystick"],
+    "answer": "Touch screen"
+  },
+  {
+    "question": "Which of the following is light sensitive stylus device?",
+    "options": ["Light pen", "Touch screen", "Pointing device", "Joystick"],
+    "answer": "Light pen"
+  },
+  {
+    "question": "Which of the following is not a marks and character recognition device?",
+    "options": ["MICR", "Fax machine", "OMR", "OCR"],
+    "answer": "Fax machine"
+  },
+  {
+    "question": "The bar-code system is called?",
+    "options": ["ASCII code", "EBCDIC code", "Universal Product Code", "Unicode"],
+    "answer": "Universal Product Code"
+  },
+  {
+    "question": "The light and dark vertical zebra stripped marks on most of the manufactured product are known as?",
+    "options": ["Product code", "Item code", "Pin code", "Bar code"],
+    "answer": "Bar code"
+  },
+  {
+    "question": "Which of the following device is used to read characters, which are printed with magnetized ink?",
+    "options": ["MICR", "Bar code reader", "OCR", "OMR"],
+    "answer": "MICR"
+  },
+  {
+    "question": "Which of the following device is used to check and process the test marks of the students?",
+    "options": ["MICR", "Bar code reader", "OCR", "OMR"],
+    "answer": "OMR"
+  },
+  {
+    "question": "Which of the following is an example of SIM card?",
+    "options": ["Magnetic stripe card", "Smart card", "Networking interface card", "Modem card"],
+    "answer": "Smart card"
+  },
+  {
+    "question": "Which of the following is audio input device?",
+    "options": ["VCR", "Video camera", "Microphone", "Speaker"],
+    "answer": "Microphone"
+  },
+  {
+    "question": "Which of the following is a video input device?",
+    "options": ["Microphone", "Digital camera", "Video camera", "Traditional camera"],
+    "answer": "Video camera"
+  },
+  {
+    "question": "Which of the following device is used to get the softcopy of outputs?",
+    "options": ["Printer", "Plotter", "Scanner", "Display screen"],
+    "answer": "Display screen"
+  },
+  {
+    "question": "Which of the following is not related to softcopy output?",
+    "options": ["CRT", "Monitors", "Plotters", "Screens"],
+    "answer": "Plotters"
+  },
+  {
+    "question": "Which of the following device is used to receive the sound output?",
+    "options": ["Plotters", "Microphones", "Speaker", "scanner"],
+    "answer": "Speaker"
+  },
+  {
+    "question": "Which of the following is not an output device?",
+    "options": ["Monitor", "Plotter", "Speaker", "Scanner"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "The video graphics card inside the computer is used for the output device:",
+    "options": ["Speaker", "Microphone", "Monitor", "printer"],
+    "answer": "Monitor"
+  },
+  {
+    "question": "How many types of graphic cards?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "question": "The monitor having the VGA has resolution:",
+    "options": ["320x200 pixels", "800x600 pixel", "700x600 pixel", "1024x768 pixel"],
+    "answer": "320x200 pixels"
+  },
+  {
+    "question": "XGA card supports:",
+    "options": ["16 colors", "256 colors", "16.7 billion colors", "16.7 million colors"],
+    "answer": "16.7 million colors"
+  },
+  {
+    "question": "Which of the following is not an impact printer?",
+    "options": ["Dot matrix printer", "Thermal printer", "Daisy wheel printer", "Line printer"],
+    "answer": "Thermal printer"
+  },
+  {
+    "question": "Which of the following is a non-impact printer?",
+    "options": ["Inkjet printer", "Dot matrix printer", "Daisy wheel printer", "Line printer"],
+    "answer": "Inkjet printer"
+  },
+  {
+    "question": "Which of the following print head of dot matrix printer provides best quality print out?",
+    "options": ["9 pins", "18 pins", "24 pins", "20 pins"],
+    "answer": "24 pins"
+  },
+  {
+    "question": "Which of the following printer is slower than dot matrix printer but better in quality?",
+    "options": ["Line printer", "Daisy wheel printer", "Laser printer", "Inkjet printer"],
+    "answer": "Daisy wheel printer"
+  },
+  {
+    "question": "Which of the following printer is normally used by mainframe computer?",
+    "options": ["Dot matrix printer", "Daisy wheel printer", "Ink jet printer", "Line printer"],
+    "answer": "Line printer"
+  },
+  {
+    "question": "Which of the following printer is an example of line printer?",
+    "options": ["Dot matrix", "Bubble jet", "Band printer", "Daisy wheel"],
+    "answer": "Band printer"
+  },
+  {
+    "question": "A multiplexer is known as",
+    "options": ["Coder", "Decoder", "Encoder", "Data selector"],
+    "answer": "Data selector"
+  },
+  {
+    "question": "Which of the following printer works like a photocopying machine?",
+    "options": ["Inkjet printer", "Bubble printer", "Laser printer", "Band printer"],
+    "answer": "Laser printer"
+  },
+  {
+    "question": "The printing speed of laser printer for microcomputer is about:",
+    "options": ["4 to 400 page per minute", "4 to 200 page per minute", "4 to 100 page per minute", "4 to 32 page per minute"],
+    "answer": "4 to 32 page per minute"
+  },
+  {
+    "question": "Which of the following printer uses as a special heat sensitive waxy paper for printing output?",
+    "options": ["Inkjet printer", "Bubble printer", "Thermal printer", "Electrostatic printer"],
+    "answer": "Thermal printer"
+  },
+  {
+    "question": "How many types of plotter are there?",
+    "options": ["2", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following output device is used to print continuous output such as to track an earthquake?",
+    "options": ["Flatbed plotter", "Thermal printer", "Drum plotter", "Laser printer"],
+    "answer": "Drum plotter"
+  },
+  {
+    "question": "Which of the following task is not related to preliminary investigation?",
+    "options": ["System identification", "System analysis", "System scope", "Feasibility study"],
+    "answer": "System scope"
+  },
+  {
+    "question": "Which of the following is the first phase of system development life cycle (SDLC)?",
+    "options": ["System analysis", "Design", "Preliminary investigation coding", "Maintaining"],
+    "answer": "System analysis"
+  },
+  {
+    "question": "A person responsible for the analysis of the system is known as:",
+    "options": ["Programmer", "Software engineers", "Analyst", "IT manager"],
+    "answer": "Analyst"
+  },
+  {
+    "question": "The actual system is produced in phase:",
+    "options": ["Design", "Coding", "Implementation", "testing"],
+    "answer": "Coding"
+  },
+  {
+    "question": "The error are detected and removed from the software in phase:",
+    "options": ["Design", "coding", "Implementation", "testing"],
+    "answer": "testing"
+  },
+  {
+    "question": "A collection of raw facts and figure is called:",
+    "options": ["Data", "information", "Processing", "none"],
+    "answer": "Data"
+  },
+  {
+    "question": "Computer is:",
+    "options": ["Accurate", "consistent", "Reliable", "all"],
+    "answer": "all"
+  },
+  {
+    "question": "Types of Control Units are",
+    "options": ["Micro Programmed Control Unit", "Hardwired Control Unit", "Both a and b", "None of the above"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "The four main functions of a computer are:",
+    "options": ["Input, processing, output and storage", "Learning, thinking, intelligent and virtuosity", "Data, information, bits and bytes", "Hardware, software, modeling and operator"],
+    "answer": "Input, processing, output and storage"
+  },
+  {
+    "question": "Another termed for processed data is:",
+    "options": ["Processor", "Output device", "Storage", "Information"],
+    "answer": "Information"
+  },
+  {
+    "question": "Creating motion from still picture is called:",
+    "options": ["Animation", "Movies", "Sequencing", "None"],
+    "answer": "Animation"
+  },
+  {
+    "question": "Multimedia can include the use of:",
+    "options": ["Text", "Animation", "Voice", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "What difference does the 5th generation computer have from other generation computers?",
+    "options": ["Technological advancement", "Scientific code", "Object Oriented Programming", "All of the above"],
+    "answer": "Technological advancement"
+  },
+  {
+    "question": "The modern revolution in information technology can be termed as:",
+    "options": ["Computer revolution", "Information revolution", "Communication revolution", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The computing and communication technologies are combined together for:",
+    "options": ["Data sequencing", "Data routing", "Searching data", "Data communication"],
+    "answer": "Data communication"
+  },
+  {
+    "question": "A process of buying goods and services via a mobile phone is called:",
+    "options": ["M-commerce", "Computer animation", "Multimedia", "No of the above"],
+    "answer": "M-commerce"
+  }
+]

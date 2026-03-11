@@ -1,0 +1,474 @@
+[
+  {
+    "question": "A process of performing financial business transactions over the internet is called:",
+    "options": ["M-commerce", "E-commerce", "Multimedia", "None of the above"],
+    "answer": "E-commerce"
+  },
+  {
+    "question": "What is the difference between the hardware and software?",
+    "options": ["Hardware is tangible but software is intangible", "Hardware is metal but software is plastics", "Hardware is permanent but software is temporary", "Hardware is reliable but software is unreliable"],
+    "answer": "Hardware is tangible but software is intangible"
+  },
+  {
+    "question": "Hardware is best described as:",
+    "options": ["Physical parts", "Printed copy file", "A program", "Logical part"],
+    "answer": "Physical parts"
+  },
+  {
+    "question": "Which of the following is not a category of computer hardware components?",
+    "options": ["Input devices", "Printing devices", "Processors", "Secondary storage devices"],
+    "answer": "Printing devices"
+  },
+  {
+    "question": "Computer is a combination of:",
+    "options": ["Software", "Hardware", "Both a and b", "None"],
+    "answer": "Both A and B"
+  },
+  {
+    "question": "Which hardware components are usually found inside system unit?",
+    "options": ["The processor, main memory and monitor", "The processor, main memory and secondary memory", "First, second and third memory", "The keyboard, the disks, and the memory"],
+    "answer": "The processor, main memory and secondary memory"
+  },
+  {
+    "question": "The piece of the hardware that permanently holds data and program is called",
+    "options": ["Primary storage", "CPU", "Secondary storage", "Output"],
+    "answer": "Secondary storage"
+  },
+  {
+    "question": "The piece of the hardware that temporarily holds data and program is called",
+    "options": ["Primary storage", "CPU", "Secondary storage", "Output"],
+    "answer": "Primary storage"
+  },
+  {
+    "question": "The electronic circuit that executes computer instructions is called:",
+    "options": ["Transistor", "Hard disk", "CPU", "Input device"],
+    "answer": "CPU"
+  },
+  {
+    "question": "Which of the following is not a secondary storage device?",
+    "options": ["CDROM", "Hard disk", "DVD-ROM", "Central processing unit"],
+    "answer": "Central processing unit"
+  },
+  {
+    "question": "Which of the following is the main component of computer?",
+    "options": ["Memory", "Output unit", "Input unit", "CPU"],
+    "answer": "CPU"
+  },
+  {
+    "question": "CPU is an example of:",
+    "options": ["Software", "Program", "Hardware", "Input unit"],
+    "answer": "Hardware"
+  },
+  {
+    "question": "CPU stands for",
+    "options": ["Central processing unit", "Central product unit", "Computing program usage", "Central programming unit"],
+    "answer": "Central processing unit"
+  },
+  {
+    "question": "Additional data and program not being used by CPU are stored in:",
+    "options": ["Secondary storage", "Input units", "Output units", "CPU"],
+    "answer": "Secondary storage"
+  },
+  {
+    "question": "Steps by step instruction that runs on a computer are called:",
+    "options": ["Hardware", "Documents", "CPU", "Software"],
+    "answer": "Software"
+  },
+  {
+    "question": "Printer and monitors are the common forms of:",
+    "options": ["Input unit", "Output unit", "Storage unit", "Tape storage"],
+    "answer": "Output unit"
+  },
+  {
+    "question": "Instruction and data that are about to be processed by the CPU are located in:",
+    "options": ["CD-ROM", "RAM", "Hard disk", "None"],
+    "answer": "RAM"
+  },
+  {
+    "question": "What is the main purpose of secondary storage device?",
+    "options": ["Executing computer instructions", "Temporary storage of data", "Permanent storage of data", "Output of information"],
+    "answer": "Permanent storage of data"
+  },
+  {
+    "question": "A major category of software is:",
+    "options": ["Application software", "System software", "Both a and b", "None"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "Software that controls computing resources is called:",
+    "options": ["Custom software", "System software", "Application software", "None"],
+    "answer": "System software"
+  },
+  {
+    "question": "Which of the following is an example of system software?",
+    "options": ["Operating system", "Utility program", "Drivers", "All"],
+    "answer": "All"
+  },
+  {
+    "question": "Programs used as tools for system maintenance and repair are called:",
+    "options": ["Utility", "Translation", "Application", "None"],
+    "answer": "Utility"
+  },
+  {
+    "question": "Which software is used to solve everyday personal or business tasks?",
+    "options": ["Custom software", "System software", "Application software", "None of the above"],
+    "answer": "Application software"
+  },
+  {
+    "question": "Typical utility program perform services like:",
+    "options": ["Repairing damaged files", "Translating files", "Playing musical CD's", "Both a and b"],
+    "answer": "Both a and b"
+  },
+  {
+    "question": "Another termed for commercial software is:",
+    "options": ["Private software", "System software", "Utility software", "Packaged software"],
+    "answer": "Packaged software"
+  },
+  {
+    "question": "UNIVAC is",
+    "options": ["Universal Automatic Computer", "Universal Array Computer", "Unique Automatic Computer", "Unvalued Automatic Computer"],
+    "answer": "Universal Automatic Computer"
+  },
+  {
+    "question": "CD-ROM stands for",
+    "options": ["Compactable Read Only Memory", "Compact Data Read Only Memory", "Compactable Disk Read Only Memory", "Compact Disk Read Only Memory"],
+    "answer": "Compact Disk Read Only Memory"
+  },
+  {
+    "question": "ALU is",
+    "options": ["Arithmetic Logic Unit", "Array Logic Unit", "Application Logic Unit", "None of above"],
+    "answer": "Arithmetic Logic Unit"
+  },
+  {
+    "question": "VGA is",
+    "options": ["Video Graphics Array", "Visual Graphics Array", "Volatile Graphics Array", "Video Graphics Adapter"],
+    "answer": "Video Graphics Array"
+  },
+  {
+    "question": "IBM 1401 is",
+    "options": ["First Generation Computer", "Second Generation Computer", "Third Generation Computer", "Fourth Generation Computer"],
+    "answer": "Second Generation Computer"
+  },
+  {
+    "question": "MSI stands for",
+    "options": ["Medium Scale Integrated Circuits", "Medium System Integrated Circuits", "Medium Scale Intelligent Circuit", "Medium System Intelligent Circuit"],
+    "answer": "Medium Scale Integrated Circuits"
+  },
+  {
+    "question": "The capacity of 3.5 inch floppy disk is",
+    "options": ["1.40 MB", "1.44 GB", "1.40 GB", "1.44MB"],
+    "answer": "1.44MB"
+  },
+  {
+    "question": "The first computer introduced in Nepal was",
+    "options": ["IBM 1400", "IBM 1401", "IBM 1402", "IBM1402"],
+    "answer": "IBM 1401"
+  },
+  {
+    "question": "WAN stands for",
+    "options": ["Wap Area Network", "Wide Area Network", "Wide Array Net", "Wireless Area Network"],
+    "answer": "Wide Area Network"
+  },
+  {
+    "question": "MICR stands for",
+    "options": ["Magnetic Ink Character Reader", "Magnetic Ink Code Reader", "Magnetic Ink Cases Reader", "None"],
+    "answer": "Magnetic Ink Character Reader"
+  },
+  {
+    "question": "FORTRAN programming language is more suitable for ...",
+    "options": ["Business Applications", "Marketing Applications", "Scientific Applications", "None of the above"],
+    "answer": "Scientific Applications"
+  },
+  {
+    "question": "Mostly which of the following device is used to carry user files?",
+    "options": ["Floppy Disk", "Hard Disk", "RAM", "CDROM"],
+    "answer": "Floppy Disk"
+  },
+  {
+    "question": "Which device is used to backup the data?",
+    "options": ["Floppy Disk", "Tape", "Network Drive", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "In order to play and hear sound on a computer, one needs:",
+    "options": ["A sound card and speakers", "A microphone", "All of them required", "None of them required"],
+    "answer": "A sound card and speakers"
+  },
+  {
+    "question": "Which of the following are the cheapest memory devices in terms of Cost/Bit?",
+    "options": ["Semiconductor memories", "Magnetic Disks", "Compact Disks", "Magnetic Tapes"],
+    "answer": "Compact Disks"
+  },
+  {
+    "question": "In a computer ______ is capable to store single binary bit",
+    "options": ["Capacitor", "Flip flop", "Register", "Inductor"],
+    "answer": "Flip flop"
+  },
+  {
+    "question": "A set of flip flops integrated together is called ______",
+    "options": ["Counter", "Adder", "Register", "None of the above"],
+    "answer": "Register"
+  },
+  {
+    "question": "Which of the following are the best units of data on an external storage device?",
+    "options": ["Bits", "Bytes", "Hertz", "Clock cycles"],
+    "answer": "Bytes"
+  },
+  {
+    "question": "A register organized to allow to move left or right operations is called a ______",
+    "options": ["Counter", "Loader", "Adder", "Shift register"],
+    "answer": "Shift register"
+  },
+  {
+    "question": "Which of the following have the fastest access time?",
+    "options": ["Semiconductor Memories", "Magnetic Disks", "Magnetic Tapes", "Compact Disks"],
+    "answer": "Semiconductor Memories"
+  },
+  {
+    "question": "Which is a semiconductor memory?",
+    "options": ["Dynamic", "Static", "Bubble", "Both a & b"],
+    "answer": "Both a & b"
+  },
+  {
+    "question": "Which of the following is a read only memory storage device?",
+    "options": ["Floppy Disk", "CDROM", "Hard Disk", "None of these"],
+    "answer": "CDROM"
+  },
+  {
+    "question": "Which of the following is a programming language?",
+    "options": ["Lotus", "Pascal", "MS-Excel", "Netscape"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "What do you call the translator which takes assembly language program as input & produce machine language code as output?",
+    "options": ["Compiler", "Interpreter", "Debugger", "Assembler"],
+    "answer": "Assembler"
+  },
+  {
+    "question": "What is a compiler?",
+    "options": ["A compiler does a conversion line by line as the program is run", "A compiler converts the whole of a higher level program code into machine code in one step", "A compiler is a general purpose language providing very efficient execution", "None of the above"],
+    "answer": "A compiler converts the whole of a higher level program code into machine code in one step"
+  },
+  {
+    "question": "What is an interpreter?",
+    "options": ["An interpreter does the conversion line by line as the program is run", "An interpreter is the representation of the system being designed", "An interpreter is a general purpose language providing very efficient execution", "None of the above"],
+    "answer": "An interpreter does the conversion line by line as the program is run"
+  },
+  {
+    "question": "What are the stages in the compilation process?",
+    "options": ["Feasibility study, system design and testing", "Implementation and documentation", "Lexical Analysis, syntax analysis, and code generation", "None of the above"],
+    "answer": "Lexical Analysis, syntax analysis, and code generation"
+  },
+  {
+    "question": "A Compiler is ______",
+    "options": ["A combination of computer hardware", "A program which translates from one high-level language to another", "A program which translates from one high-level to a machine level language", "None of these"],
+    "answer": "A program which translates from one high-level to a machine level language"
+  },
+  {
+    "question": "When a key is pressed on the keyboard, which standard is used for converting the keystroke into the corresponding bits?",
+    "options": ["ANSI", "ASCII", "EBCDIC", "ISO"],
+    "answer": "ANSI"
+  },
+  {
+    "question": "A Pixel is ......",
+    "options": ["A computer program that draws picture", "A picture stored in secondary memory", "The smallest resolvable part of a picture", "None of these"],
+    "answer": "The smallest resolvable part of a picture"
+  },
+  {
+    "question": "Which one of the following is error correction technique?",
+    "options": ["Linear block code", "Conventional code", "Hamming codes", "all of the above"],
+    "answer": "all of the above"
+  },
+  {
+    "question": "Which number system is usually followed in a typical 32-bit computer?",
+    "options": ["2", "10", "16", "32"],
+    "answer": "2"
+  },
+  {
+    "question": "The process of communicating with a file from a terminal is",
+    "options": ["Interactive", "Interrogation", "Heuristic", "All of the above"],
+    "answer": "Interrogation"
+  },
+  {
+    "question": "Which of the following is not an output device?",
+    "options": ["Scanner", "Printer", "Flat Screen", "Touch Screen"],
+    "answer": "Scanner"
+  },
+  {
+    "question": "Which of the following devices have a limitation that we can only store information to it but cannot erase or modify it?",
+    "options": ["Floppy Disk", "Hard Disk", "Tape Drive", "CDROM"],
+    "answer": "CDROM"
+  },
+  {
+    "question": "Which technology is used in Compact disks?",
+    "options": ["Mechanical", "Electrical", "Electro Magnetic", "Laser"],
+    "answer": "Laser"
+  },
+  {
+    "question": "Which of the following storage devices can store maximum amount of data?",
+    "options": ["Floppy Disk", "Hard Disk", "Compact Disk", "Magneto Optic Disk"],
+    "answer": "Hard Disk"
+  },
+  {
+    "question": "Which of the following is the largest manufacturer of Hard Disk Drives?",
+    "options": ["IBM", "Seagate", "Microsoft", "3M"],
+    "answer": "Seagate"
+  },
+  {
+    "question": "The programs which are as permanent as hardware and stored in ROM is known as",
+    "options": ["Hardware", "Software", "Firmware", "ROM ware"],
+    "answer": "Firmware"
+  },
+  {
+    "question": "Memory is made up of",
+    "options": ["Set of wires", "Set of circuits", "Large number of cells", "All of these"],
+    "answer": "Large number of cells"
+  },
+  {
+    "question": "Primary memory stores",
+    "options": ["Data alone", "Programs alone", "Results alone", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "question": "EPROM can be used for",
+    "options": ["Erasing the contents of ROM", "Reconstructing the contents of ROM", "Erasing and reconstructing the contents of ROM", "Duplicating ROM"],
+    "answer": "Erasing and reconstructing the contents of ROM"
+  },
+  {
+    "question": "Which device can understand difference between data & programs?",
+    "options": ["Input device", "Output device", "Memory", "Microprocessor"],
+    "answer": "Microprocessor"
+  },
+  {
+    "question": "The contents of information are stored in",
+    "options": ["Memory Data Register", "Memory Address Register", "Memory Arithmetic Registers", "Memory Access Register"],
+    "answer": "Memory Data Register"
+  },
+  {
+    "question": "Memory unit is one part of",
+    "options": ["Input device", "Control unit", "Output device", "Central Processing Unit"],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "Algorithm and Flow chart help us to",
+    "options": ["Know the memory capacity", "Identify the base of a number system", "Direct the output to a printer", "Specify the problem completely and clearly"],
+    "answer": "Specify the problem completely and clearly"
+  },
+  {
+    "question": "Which of the following is not a valid size of a Floppy Disk?",
+    "options": ["8\"", "5 1/4\"", "3 1/2\"", "5 ½\""],
+    "answer": "5 ½\""
+  },
+  {
+    "question": "The basic operations performed by a computer are",
+    "options": ["Arithmetic operation", "Logical operation", "Storage and relative", "All the above"],
+    "answer": "All the above"
+  },
+  {
+    "question": "The earliest calculating devices are",
+    "options": ["Abacus", "Clock", "Difference Engine", "None of these"],
+    "answer": "Abacus"
+  },
+  {
+    "question": "Who built the first Mechanical Calculator?",
+    "options": ["Joseph Marie Jacquard", "John Mauchly", "Blaise Pascal", "Howard Aiken"],
+    "answer": "Blaise Pascal"
+  },
+  {
+    "question": "Punched cards were first introduced by",
+    "options": ["Powers", "Pascal", "Jacquard", "Herman Hollerith"],
+    "answer": "Herman Hollerith"
+  },
+  {
+    "question": "Computers built before the First Generation of computers were:",
+    "options": ["Mechanical", "Electro-mechanical", "Electrical", "None of these"],
+    "answer": "Electro-mechanical"
+  },
+  {
+    "question": "Word length of a Personal Computer is ______",
+    "options": ["4 bits", "8 bits", "16 bits", "64 bits"],
+    "answer": "8 bits"
+  },
+  {
+    "question": "Size of the primary memory of a PC ranges between",
+    "options": ["2KB to 8KB", "64KB & 256KB", "256KB & 640KB", "None of these"],
+    "answer": "256KB & 640KB"
+  },
+  {
+    "question": "CPU speed of a personal computer is",
+    "options": ["32 KIPS", "100 KIPS", "1 MIPS", "None of these"],
+    "answer": "100 KIPS"
+  },
+  {
+    "question": "Programs are executed on the basis of a priority number in a",
+    "options": ["Batch processing system", "Multiprogramming", "Time sharing", "None of these"],
+    "answer": "Multiprogramming"
+  },
+  {
+    "question": "Cursor is a ______",
+    "options": ["Pixel", "Thin blinking line", "Pointing device", "None of these"],
+    "answer": "Thin blinking line"
+  },
+  {
+    "question": "Operating system, editors, and debuggers comes under?",
+    "options": ["System Software", "Application Software", "Utilities", "None of the above"],
+    "answer": "System Software"
+  },
+  {
+    "question": "What is the first stage in software development?",
+    "options": ["Specification and design", "Testing", "System Analysis", "Maintenance"],
+    "answer": "System Analysis"
+  },
+  {
+    "question": "What is System Analysis?",
+    "options": ["The design of the screen the user will see and use to enter or display data", "System analysis defines the format and type of data the program will use", "System Analysis involves creating formal model of the problem to be solved", "None of the above"],
+    "answer": "System Analysis involves creating formal model of the problem to be solved"
+  },
+  {
+    "question": "What do you call the programs that are used to find out possible faults and their causes?",
+    "options": ["Operating system extensions", "Cookies", "Diagnostic software", "Boot diskettes"],
+    "answer": "Diagnostic software"
+  },
+  {
+    "question": "Which programming languages are classified as low-level languages?",
+    "options": ["Basic, COBOL, FORTRAN", "Prolog 2, Expert Systems", "Knowledge based Systems", "Assembly Languages"],
+    "answer": "Assembly Languages"
+  },
+  {
+    "question": "Which of the following is not anti-viruses software?",
+    "options": ["NAV", "F-Port", "Oracle", "McAfee"],
+    "answer": "Oracle"
+  },
+  {
+    "question": "Which device is required for the Internet connection?",
+    "options": ["Joystick", "Modem", "CD Drive", "NIC Card"],
+    "answer": "Modem"
+  },
+  {
+    "question": "What does DMA stand for?",
+    "options": ["Distinct Memory Access", "Direct Memory Access", "Direct Module Access", "Direct Memory Allocation"],
+    "answer": "Direct Memory Access"
+  },
+  {
+    "question": "Which of the following is a storage device?",
+    "options": ["Tape", "Hard Disk", "Floppy Disk", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "When did John Napier develop logarithm?",
+    "options": ["1416", "1614", "1641", "1804"],
+    "answer": "1614"
+  },
+  {
+    "question": "A proxy server for which of the following:",
+    "options": ["To provide TCP/IP", "To provide security against unauthorized user", "To process client request for web pages", "To process client request for database access"],
+    "answer": "To provide security against unauthorized user"
+  },
+  {
+    "question": "MIS is designed to provide information needed for effective decision making by?",
+    "options": ["Consumers", "Workers", "Foremen", "Managers"],
+    "answer": "Managers"
+  },
+  {
+    "question": "What is a light pen?",
+    "options": ["Mechanical Input device", 
