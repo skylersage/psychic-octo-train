@@ -469,6 +469,9 @@
     "options": ["Consumers", "Workers", "Foremen", "Managers"],
     "answer": "Managers"
   },
-  {
-    "question": "What is a light pen?",
-    "options": ["Mechanical Input device", 
+{
+    "question": "Which term is used to describe RAM?",
+    "options": ["Dynamic RAM (DRAM)", "Static RAM (SRAM)", "Video RAM (VRAM)", "All of the above"],
+    "answer": "All of the above"
+  }
+]
